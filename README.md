@@ -1,29 +1,23 @@
-## Project Overview
-
+## Project Overview 
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **Navigation**: Jetpack Compose Navigation
 
-## Features
-
-The app offers a complete check-in flow for passengers:
-
+## Screens Descriptions 
 1. **Online Check-in** - Initial screen where passengers can start their check-in process
 2. **Passenger Details** - Screen for entering or confirming passenger information
 3. **Check-in Confirmation** - Confirmation screen after successful check-in
 4. **Boarding Pass** - Digital boarding pass with barcode generation
 
-## Tech Stack
-
+## Tech Stack 
 - **Jetpack Compose** - Modern toolkit for building native Android UI
 - **Compose Navigation** - For handling navigation between screens
 - **LiveData** - For observing data changes
 - **Barcode Generation** - Using Composed Barcodes library
 - **Material Design** - For consistent and modern UI components
 
-## Development Environment
-
+## Development Environment 
 - **Compile SDK**: 35
 - **Target SDK**: 34
 - **Min SDK**: 24
